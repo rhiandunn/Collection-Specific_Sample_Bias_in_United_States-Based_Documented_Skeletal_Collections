@@ -3,9 +3,10 @@ This repository contains the R workflow for the craniometric and demographic dat
 
 #R Packages
 The combined script uses the following R packages:
+
 install.packages(c(
   "dplyr", "tidyr", "psych", "mice", "VIM", "corrplot", "candisc",
-  "ggplot2", "ggrepel", "reshape2", "geosphere", "vegan", "plotly", 
-  “caret”, “MASS”, “klaR”, “factoextra”, “pROC”, “tidyverse”,
-  “sf”, “usmap”, “chisq.posthoc.test”
+  "ggplot2", "ggrepel", "reshape2", "geosphere", "vegan", "plotly",
+  "caret", "MASS", "klaR", "factoextra", "pROC", "tidyverse",
+  "sf", "usmap", "chisq.posthoc.test"
 ))
